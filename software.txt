@@ -1,3 +1,4 @@
-blast=/backup02/software/genome/ncbi-blast-2.6.0+/bin
-perl=/lustre/Work/software/common/anaconda2/bin/perl
-pfam=/backup02/software/genome/PfamScan
+#software list
+blast=/path/to/ncbi-blast+/bin
+perl=/path/to/perl
+pfam=/path/to/PfamScan
